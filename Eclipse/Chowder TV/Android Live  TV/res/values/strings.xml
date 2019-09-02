@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chowder TV</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="img_no">No Favorite Found</string>
+    <string name="subscription">Subscription</string>
+    <string name="service_exp">Service Expiration</string>
+
+    <!-- connection -->
+    <string name="conn_msg1">Internal server error</string>
+    <string name="conn_msg2">Switch on your internet</string>
+    <string name="conn_msg3">No Network Connection!!!</string>
+    <string name="conn_msg4">Internet Connection Error</string>
+    <string name="loading">Loading..</string>
+    <string name="nodata">No data found from web!!!</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="text_no_item">No item available.</string>
+    <string name="related">Related Channels</string>
+    <string name="comments">Comments</string>
+    <string name="comment_hint">Please Enter Your Comments Here</string>
+    <string name="submit">Submit</string>
+    <string name="comment_area">Please Fill Comment Area</string>
+    <string name="report_channel">Report Channel</string>
+
+    <!-- Menu -->
+    <string name="menu_search">Search</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_fav">Favourite</string>
+    <string name="menu_share">Share</string>
+
+    <!-- Share Message -->
+    <string name="share_msg">Hi,I would like to share Application which is used to watch live tv free please download it from Google Play Store Free Here \n https://play.google.com/store/apps/details?id=</string>
+    <string name="fav_msg_1">Added to Favorite</string>
+    <string name="fav_msg_2">Removed from Favorite</string>
+
+    <!-- admob id -->
+    <string name="admob_publisher_id"></string> <!-- your admob id -->
+
+     <!-- startapp id -->
+    <string name="startapp_app_id"></string>
+    <string name="startapp_dev_id"></string>
+
+</resources>
